@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJs** and **TypeScript**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, ReactJs, SQL, NodeJS, .Net Core**
+- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, ReactJs, SQL, NodeJS, .Net Core, NextJs**
 
 - 📫 How to reach me **amangwari29sep@gmail.com**
 
